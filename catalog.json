@@ -1,25 +1,11 @@
 {
   "packages": [
     {
-      "name":"neon-elements",
-      "title":"Neon Elements",
+      "name":"raw-sdks",
+      "title":"Raw SDKs",
       "color":"#a7ffeb",
-      "symbol":"Ne",
-      "tagline": "Animation and Special Effects"
-    },
-    {
-      "name":"platinum-elements",
-      "title":"Platinum Elements",
-      "color":"#cfd8dc",
-      "symbol":"Pt",
-      "tagline":"Offline, push, and more"
-    },
-    {
-      "name":"molecules",
-      "title":"Molecules",
-      "color":"#ffab91",
-      "symbol":"Mo",
-      "tagline": "Wrappers for third-party libraries"
+      "symbol":"RAW",
+      "tagline": "Raw SDKs for Litmus Loop"
     }
   ]
 }
