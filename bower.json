@@ -16,7 +16,7 @@
   ],
   "private": true,
   "dependencies": {
-    "raw-sdks": "git+ssh://git@bitbucket.org:litmusloopdocs/raw-sdks.git",
+    "raw-sdks": "git+https://vshah12@bitbucket.org/litmusloopdocs/raw-sdks.git",
     "polymer": "Polymer/polymer#^1.0.0",
     "app-router": "blasten/app-router#master",
     "pushstate-anchor": "~0.3.0",
