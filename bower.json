@@ -16,7 +16,7 @@
   ],
   "private": true,
   "dependencies": {
-    "raw-sdks": "PolymerElements/neon-elements#^1.0.0",
+    "raw-sdks": "git+ssh://git@bitbucket.org:litmusloopdocs/raw-sdks.git",
     "polymer": "Polymer/polymer#^1.0.0",
     "app-router": "blasten/app-router#master",
     "pushstate-anchor": "~0.3.0",
